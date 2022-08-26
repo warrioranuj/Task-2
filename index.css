@@ -1,0 +1,36 @@
+h1{
+    font-size: large;
+    background-color: aqua;
+    text-align: center;
+}
+
+h2{
+    border-radius: 10px;
+    border: solid;
+}
+
+
+h3{
+    border: dotted;
+    color: black;
+
+}
+
+h6{
+    color: black;
+}
+
+div{
+    width: 300px;
+    border: 15px solid blue;
+    padding: 50px;
+    margin: 20px;
+}
+
+img{
+    float: right;
+}
+
+p{
+    clear: right;
+}
